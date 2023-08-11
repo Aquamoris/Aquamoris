@@ -1,16 +1,18 @@
 ### Hi there 👋
 
-<!--
-**Aquamoris/Aquamoris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm beginner React Frontend developer<br>
+I'm studying at the Far Eastern Federal University for a bachelor's degree in Software Engineering
 
-Here are some ideas to get you started:
+##### My technology stack
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Narrow specialization
+
+![My Skills](https://skillicons.dev/icons?i=react,next)
+
+Specialization
+
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,styledcomponents,emotion,jest,figma)
+
+Basic technologies
+
+![My Skills](https://skillicons.dev/icons?i=bash,git,github)
