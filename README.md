@@ -11,7 +11,7 @@ Narrow specialization
 
 Specialization
 
-![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,styledcomponents,emotion,jest,figma)
+![My Skills](https://skillicons.dev/icons?i=html,css,js,ts,apollo,graphql,`styledcomponents,emotion,jest,figma)
 
 Basic technologies
 
