@@ -5,14 +5,12 @@ I'm studying at the Far Eastern Federal University for a bachelor's degree in So
 
 ##### My technology stack
 
-Narrow specialization
+* React, Redux, Redux-Thunk, REST API, Axios, Jest
+* JavaScript, TypeScript
+* HTML/HTML5, CSS/SCSS, Tailwind, Styled-components, Emotions
 
-![My Skills](https://skillicons.dev/icons?i=react,next,ts,js)
+##### Working on
 
-Specialization
-
-![My Skills](https://skillicons.dev/icons?i=html,css,apollo,graphql,styledcomponents,emotion,jest,figma)
-
-Basic technologies
-
-![My Skills](https://skillicons.dev/icons?i=bash,git,github)
+* [Money Tracker](https://github.com/Aquamoris/Money-tracker)
+* [Social Media](https://github.com/Aquamoris/Social-media)
+* [Service](https://github.com/Aquamoris/Service)
