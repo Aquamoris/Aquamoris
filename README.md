@@ -5,7 +5,7 @@ I'm studying at the Far Eastern Federal University for a bachelor's degree in So
 
 ##### My technology stack
 
-* React, Redux, Redux-Thunk, REST API, Axios, Jest
+* React, Redux, Redux-Thunk, REST API, Axios, Formik, Yup, Jest
 * JavaScript, TypeScript
 * HTML/HTML5, CSS/SCSS, Tailwind, Styled-components, Emotions
 
