@@ -18,4 +18,4 @@ I'm studying at the Far Eastern Federal University for a bachelor's degree in So
 
 ##### Finished projects
 
-* [To Do List](https://github.com/Aquamoris/To-do-list)
+* [To Do List](https://github.com/Aquamoris/To-do-list) [[deploy link](https://aquamoris.github.io/To-do-list/)]
