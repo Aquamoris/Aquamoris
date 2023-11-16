@@ -12,7 +12,7 @@ I'm studying at the Far Eastern Federal University for a bachelor's degree in So
 ##### Finished projects
 
 * [To Do List](https://github.com/Aquamoris/To-do-list) [[deploy link](https://aquamoris.github.io/To-do-list/)]
-* [Authorization form](https://github.com/Aquamoris/Auth-form) [[deploy link](https://aquamoris.github.io/auth-form/)]
+* [Authorization form](https://github.com/Aquamoris/Auth-form) [[deploy link](https://aquamoris.github.io/Auth-form/)]
 
 ##### Working on
 
